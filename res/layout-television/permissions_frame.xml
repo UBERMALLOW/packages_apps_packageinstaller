@@ -63,6 +63,7 @@
             android:maxHeight="@dimen/lb_content_fragment_max_icon_height"
             android:minHeight="@dimen/lb_content_fragment_icon_width"
             android:scaleType="fitCenter"
+            android:tint="?android:attr/colorControlNormal"
             tools:ignore="ContentDescription" />
 
         <TextView
